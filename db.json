@@ -1,0 +1,33 @@
+{
+  "persons": [
+    {
+      "id": "1",
+      "name": "user1",
+      "email": "User1gmail.com",
+      "mobileNo": "72849595767",
+      "course": "html"
+    },
+    {
+      "id": "2",
+      "name": "user2",
+      "email": "User2gmail.com",
+      "mobileNo": "728495956677",
+      "course": "css"
+    },
+    {
+      "id": "a17b",
+      "name": "Shivani",
+      "email": "shi123@gmail.com",
+      "mobile": "278950006",
+      "course": "CSS",
+      "eamil": "Shivani@gmail.com"
+    },
+    {
+      "id": "3188",
+      "name": "Shivani",
+      "email": "shivani@gmail.com",
+      "mobile": "283940000-3-",
+      "course": "Java"
+    }
+  ]
+}
